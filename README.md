@@ -14,6 +14,7 @@ Research Assistant (ML + biostatistics) @ Boya Institute · Software Testing Eng
 |---|---|---|
 | [biomed-data-dashboard](https://github.com/asd70890asd/biomed-data-dashboard) | Interactive biomedical data analysis dashboard — one-click hypothesis testing, ML model comparison with ROC curves, one-click analysis reports. An interactive re-creation of my research-assistant data workflow. | Python · Streamlit · scikit-learn · plotly |
 | [rag-doc-qa-demo](https://github.com/asd70890asd/rag-doc-qa-demo) | RAG document Q&A demo — upload a PDF, ask questions, get answers with highlighted cited sources. A self-directed learning project. | Python · FastAPI · sentence-transformers · FAISS |
+| [dispute-evidence-builder](https://github.com/asd70890asd/dispute-evidence-builder) | CaseFile — dispute evidence builder: upload photos, chat logs and receipts, build a chronological timeline, match claims to evidence with embeddings, flag evidence gaps and conflicting amounts, export a print-friendly evidence brief. A self-directed learning project. | Python · FastAPI · sentence-transformers · vanilla JS |
 
 > Each project README states clearly what the original real-world work was and what the demo re-creates. Sample data is synthetic — no real patient data anywhere.
 
