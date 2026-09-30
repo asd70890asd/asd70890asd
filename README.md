@@ -3,6 +3,8 @@
 **MEng in Automation & Smart Systems @ McMaster University (GPA 3.9)** · Toronto, ON
 
 Software · Data · AI — I build interactive things that make complex systems understandable.
+
+🌐 **Portfolio:** [asd70890asd.github.io/dev-portfolio](https://asd70890asd.github.io/dev-portfolio/)
 Previously: Software Developer @ Beijing Jiahe Hospital · AR Rehabilitation Research @ McMaster ·
 Research Assistant (ML + biostatistics) @ Boya Institute · Software Testing Engineer (DICOM viewers).
 
